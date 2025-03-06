@@ -10,8 +10,8 @@ H2 Database: Veritabanı olarak H2 kullanılıyor. Başka veritabanlarına geçi
 API Endpoints
 
 1. Restaurant Controller
-POST /api/restaurants/addRestaurants
-Yeni bir restoran ekler.
+  POST /api/restaurants/addRestaurants
+  Yeni bir restoran ekler.
 GET /api/restaurants/getRestaurantById/{id}
 Verilen id'ye sahip restoranı getirir.
 GET /api/restaurants/getAllRestaurants
